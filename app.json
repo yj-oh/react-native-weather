@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "react-native-weather",
-    "slug": "react-native-weather",
+    "name": "react-native-weather-app",
+    "slug": "react-native-weather-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -28,7 +28,7 @@
     "web": {
       "favicon": "./assets/favicon.png"
     },
-    "description": "👅 리액트 네이티브 시작하기 \n(노마드 코더 예제 https://nomadcoders.co/react-native-fundamentals)",
-    "githubUrl": "https://github.com/yj-oh/react-native-weather"
+    "description": "🌤 A simple weather app using OpenWeatherMap API. \nLearning React Native with NomadCoders.",
+    "githubUrl": "https://github.com/yj-oh/react-native-weather-app"
   }
 }
